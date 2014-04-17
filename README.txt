@@ -1,6 +1,6 @@
 jQuery Instagram Browser Plugin
 ========================
-
+ 
 Description
 -----------
 This is a plugin designed to allow you to easily pull photos from your instagram account and render them on your website. Simply pass in your username and the rest is take care of for you! 
